@@ -1,0 +1,9 @@
+[package]
+name = "baler"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = [ "Yana Zhabura <yana.zhabura@gmail.com>" ]
+license = "MPL-2.0"
+description = "Dynamically balance column sizes of grids and tables."
+categories = [ "layout" ]
+disciplines = [ ]
