@@ -1,3 +1,9 @@
+/*
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at https://mozilla.org/MPL/2.0/.
+ */
+
 // Validate the column size value is valid for one column
 // It should be either auto, a positive length, or an array of two positive lengths in ascending order
 #let validate-column-size((i, width)) = {
